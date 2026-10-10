@@ -1,7 +1,9 @@
-# AJ-8A — Developer & Project Creator
+# Aajimin (AJ-8A) — Developer & Project Creator
 
-Welcome to **AJ-8A's GitHub profile**. I build web projects, learning tools, and experiment with robotics and software.
+Welcome to **Aajimin's GitHub profile**, also known as **AJ-8A**. I build web projects, learning tools, and experiment with robotics and software. This is the official GitHub profile for my projects and developer work.
 
+- **Name:** Aajimin
+- **GitHub username:** AJ-8A
 - **GitHub profile:** https://github.com/AJ-8A
 - **Study4U website:** https://aj-8a.github.io/study4u
 
