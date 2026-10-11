@@ -1,235 +1,90 @@
-# AJ-8A
+<!--
+  GitHub Profile README — AJ-8A
+  Personal profile of Aajimin (AJ).
+-->
 
 <div align="center">
-  <img src="https://github.com/AJ-8A.png" alt="AJ-8A" width="160" height="160" style="border-radius: 12px; border: 3px solid #00FF41; box-shadow: 0 0 30px rgba(0,255,65,0.55);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:102A43,100:00C2A8&text=AAJIMIN%20%7C%20AJ-8A&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=16" alt="Aajimin — Developer, Builder, Lifelong Learner" width="100%" />
 </div>
 
-<h1 align="center">AAJIMIN / AJ-8A</h1>
+<div align="center">
+  <a href="https://github.com/AJ-8A">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00C2A8&center=true&vCenter=true&width=720&lines=Turning+ideas+into+working+projects;Building+for+the+web;Learn.+Build.+Ship.+Improve." alt="Typing animation" />
+  </a>
+  <br />
+  <a href="https://github.com/AJ-8A?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-Repositories-102A43?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://aj-8a.github.io/study4u/"><img src="https://img.shields.io/badge/Visit-Study4U-00C2A8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Study4U" /></a>
+</div>
+
+---
+
+## 👋 About me
+
+Hi, I'm **Aajimin (AJ)** — an independent developer who enjoys turning ideas into useful digital experiences. I build web projects, experiment with new technologies, and keep improving through hands-on work.
+
+- 🛠️ **I build:** web apps, learning tools, chat experiences, and creative experiments.
+- 🌱 **I'm focused on:** JavaScript, Python, frontend development, and practical software building.
+- 🧠 **My approach:** learn by doing, solve real problems, and improve one release at a time.
+- 🚀 **Current mindset:** make it work, make it better, keep learning.
+
+> **Build with curiosity. Ship with purpose. Improve continuously.**
+
+## 🚀 Featured projects
+
+<div align="center">
+  <a href="https://github.com/AJ-8A/AJChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJ-8A&repo=AJChat&theme=transparent&hide_border=true&title_color=00C2A8" alt="AJChat repository card" />
+  </a>
+  <a href="https://github.com/AJ-8A/study4u">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AJ-8A&repo=study4u&theme=transparent&hide_border=true&title_color=00C2A8" alt="Study4U repository card" />
+  </a>
+</div>
+
+| Project | What it is | Link |
+| --- | --- | --- |
+| **AJChat** | A community-focused messaging project with a polished chat interface | [Source code](https://github.com/AJ-8A/AJChat) · [Live app](https://aj-8a.github.io/AJChat/) |
+| **Study4U** | A learning-focused web project | [Source code](https://github.com/AJ-8A/study4u) · [Live site](https://aj-8a.github.io/study4u/) |
+| **M2** | A web app project in active development | [Repository](https://github.com/AJ-8A/m2) · [Live app](https://aj-8a.github.io/m2/) |
+| **PDF Reader** | A browser-based PDF reader project | [Repository](https://github.com/AJ-8A/pdfreader) · [Live app](https://aj-8a.github.io/pdfreader/) |
+
+## 🧰 Tools & technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,nodejs,git,github,cloudflare&theme=dark" alt="HTML, CSS, JavaScript, Python, C, Node.js, Git, GitHub, and Cloudflare" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=DEVELOPER+%7C+BUILDER+%7C+FULL+STACK+ENGINEER;Creating+digital+experiences+through+code;Building+projects+that+matter;Shipping+ideas+at+velocity" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-102A43?style=flat-square" alt="Frontend technologies" />
+  <img src="https://img.shields.io/badge/Backend%20experiments-Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Workflow-Git%20%26%20GitHub-181717?style=flat-square&logo=github" alt="Git and GitHub" />
 </p>
 
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   ████████╗██╗  ██╗███████╗██╗  ██╗ █████╗  ██████╗██╗  ██╗  ║
-║   ╚══██╔══╝██║  ██║██╔════╝██║  ██║██╔══██╗██╔════╝██║ ██╔╝  ║
-║      ██║   ███████║█████╗  ███████║███████║██║     █████╔╝   ║
-║      ██║   ██╔══██║██╔══╝  ██╔══██║██╔══██║██║     ██╔═██╗   ║
-║      ██║   ██║  ██║███████╗██║  ██║██║  ██║╚██████╗██║  ██╗  ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝  ║
-║                                                                ║
-║         > ACCESSING DEVELOPER PROFILE: AJ-8A                  ║
-║         > CLEARANCE LEVEL: FULL STACK ENGINEER                ║
-║         > STATUS: ACTIVELY SHIPPING CODE                      ║
-║         > SYSTEM: MATRIX INITIALIZED                          ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+## 📈 GitHub activity
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AJ-8A&show_icons=true&hide_border=true&theme=transparent&title_color=00C2A8&icon_color=00C2A8&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AJ-8A&hide_border=true&theme=transparent&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8" alt="GitHub contribution streak" />
+</div>
 
-![Python](https://img.shields.io/badge/-Python-0A0A0A?style=flat-square&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=00FF41)
-![C](https://img.shields.io/badge/-C-0A0A0A?style=flat-square&logo=c&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/-HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/-CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat-square&logo=node.js&logoColor=00FF41)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-8A&layout=compact&hide_border=true&theme=transparent&title_color=00C2A8" alt="Most used languages" />
+</div>
 
+<sub>Stats and language cards are generated by third-party services and may occasionally be unavailable or delayed.</sub>
+
+## 🤝 Let's connect
+
+If you find something interesting in my repositories, feel free to explore the code, share feedback, or open an issue.
+
+<div align="center">
+  <a href="https://github.com/AJ-8A"><img src="https://img.shields.io/badge/GitHub-AJ--8A-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://github.com/AJ-8A?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-102A43?style=for-the-badge&logo=github" alt="Browse repositories" /></a>
+  <a href="https://aj-8a.github.io/study4u/"><img src="https://img.shields.io/badge/Website-Study4U-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Study4U website" /></a>
 </div>
 
 ---
 
-## 🟢 RAIN_CODE.EXE
-
-```text
-████████████████████████████████████████████████████████████████
-  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-  
-  < var x = "build"; >
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-    
-  < function ship() { return code; } >
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-    
-  < while (learning) { improve(); } >
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-    
-  < class AJ-8A extends Developer { } >
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
-    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
-    
-████████████████████████████████████████████████████████████████
-```
-
----
-
-```python
-# MATRIX_CODE.PY
-# THE CODE THAT RAINS FROM THE SKY
-
-import time
-import random
-
-class CodeRain:
-    def __init__(self):
-        self.syntax = [
-            "var x = 0;",
-            "function build() {}",
-            "const ship = () => {}",
-            "while (true) { improve(); }",
-            "class Developer {}",
-            "return this.code;",
-            "async function deploy() {}",
-            "if (success) celebrate();",
-            "[...spread]",
-            "=> arrow functions",
-            "git commit -m 'ship it'",
-            "npm run build && deploy",
-            "const dev = new AJ-8A()",
-            "db.connect().then(sail)",
-            "for (let idea in ideas) { build(idea) }"
-        ]
-    
-    def rain(self):
-        for _ in range(50):
-            print(" " * random.randint(0, 30) + "↓ " + random.choice(self.syntax))
-            time.sleep(0.05)
-
-matrix = CodeRain()
-print("[INITIALIZING] Matrix Code Rain...")
-print("[STATUS] AJ-8A Developer Mode: ACTIVE\n")
-matrix.rain()
-print("\n[COMPLETE] Code falling. System online. Ready to build.\n")
-```
-
----
-
-## 🎯 CURRENT MISSION
-
-| Objective | Status | Progress |
-|-----------|--------|----------|
-| Build clean web experiences | 🟢 ACTIVE | 95% |
-| Master system design | 🟢 ACTIVE | 75% |
-| Ship useful tools | 🟢 ACTIVE | 85% |
-| Mentor developers | 🟡 QUEUED | 30% |
-| Open source contribution | 🟢 ACTIVE | 60% |
-
----
-
-## 📡 ACTIVE PROJECTS
-
-| Project | Type | Repo | Status |
-|---------|------|------|--------|
-| **Study4U** | Learning Platform | [→ Repo](https://github.com/aj-8a/study4u) | 🟢 LIVE |
-| **AJChat** | Messaging System | [→ Repo](https://github.com/aj-8a/AJChat) | 🟢 LIVE |
-| **TechLab** | Experiments | [→ Repo](https://github.com/aj-8a/techlab) | 🟡 BUILDING |
-| **Craft** | Graphics Project | [→ Repo](https://github.com/aj-8a/Craft) | 🟡 BUILDING |
-| **Minecraft-Hub** | Resources | [→ Repo](https://github.com/aj-8a/Minecraft-Hub) | 🟢 LIVE |
-
----
-
-## 💻 SYSTEM SPECIFICATIONS
-
-```text
-┌─────────────────────────────────────────────────────┐
-│ DEVELOPER PROFILE: AJ-8A                            │
-├─────────────────────────────────────────────────────┤
-│ Primary Language     → Python, JavaScript           │
-│ Secondary Language   → C, C++                       │
-│ Web Stack            → HTML5, CSS3, JS               │
-│ Build Philosophy     → Ship → Learn → Improve       │
-│ Deployment Speed     → High Velocity                 │
-│ Code Quality         → Production Ready              │
-│ Learning Mode        → Always ON                     │
-│ Matrix Status        → CODE RAINING ☔              │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 DEVELOPMENT ANALYTICS
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AJ-8A&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41&icon_color=00FF41)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AJ-8A&theme=dark&hide_border=true&background=0A0A0A&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AJ-8A&theme=dark&hide_border=true&layout=compact&bg_color=0A0A0A&title_color=00FF41&text_color=00FF41)
-
-</div>
-
----
-
-## 🔐 HACKER PRINCIPLES
-
-```text
-[01] SHIP FIRST
-     Build working code → Test in production → Iterate
-
-[02] LEARN CONSTANTLY
-     Every bug is a lesson → Every project teaches → Keep growing
-
-[03] IMPROVE RELENTLESSLY
-     v1.0 → v1.1 → v2.0 → Keep shipping better versions
-
-[04] CODE WITH PURPOSE
-     Don't build for perfection → Build for users → Solve real problems
-
-[05] STAY CURIOUS
-     Try new tech → Break things → Learn → Move forward
-
-[06] EMBRACE THE MATRIX
-     Let the code rain. Let your fingers fly. Never stop building.
-```
-
----
-
-## 🌐 CONNECT
-
-```text
-GitHub   → https://github.com/AJ-8A
-Website  → https://aj-8a.github.io/study4u
-Status   → 🟢 ACTIVELY SHIPPING
-Mode     → 🔴 BUILDING 24/7
-Matrix   → 🟢 CODE RAINING
-```
-
----
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║         ↓ ↓ ↓ CODE RAINING FROM THE SKY ↓ ↓ ↓               ║
-║                                                                ║
-║         The code that falls shapes the world.                 ║
-║         AJ-8A doesn't stop. The matrix never sleeps.          ║
-║                                                                ║
-║              > echo "Keep coding. Keep shipping."              ║
-║              > Keep learning. Keep improving.                  ║
-║              > The grind never stops. 🐍                       ║
-║                                                                ║
-║                    — AJ-8A / AAJIMIN                           ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-### Thanks for visiting. Now go build something awesome. ⚡
-
+  <strong>Thanks for stopping by!</strong><br />
+  <sub>Learn something new. Build something useful. Repeat. ⚡</sub>
 </div>
