@@ -23,6 +23,7 @@
 ║         > ACCESSING DEVELOPER PROFILE: AJ-8A                  ║
 ║         > CLEARANCE LEVEL: FULL STACK ENGINEER                ║
 ║         > STATUS: ACTIVELY SHIPPING CODE                      ║
+║         > SYSTEM: MATRIX INITIALIZED                          ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -40,30 +41,75 @@
 
 ---
 
+## 🟢 RAIN_CODE.EXE
+
+```text
+████████████████████████████████████████████████████████████████
+  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+  
+  < var x = "build"; >
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+    
+  < function ship() { return code; } >
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+    
+  < while (learning) { improve(); } >
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+    
+  < class AJ-8A extends Developer { } >
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+  1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0 1 0 1 0 1 1 0 0
+    ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+    
+████████████████████████████████████████████████████████████████
+```
+
+---
+
 ```python
-# INIT_SEQUENCE.PY
-# Developer Mode: ACTIVE
+# MATRIX_CODE.PY
+# THE CODE THAT RAINS FROM THE SKY
 
-class Developer:
-    def __init__(self, name="Aajimin"):
-        self.name = name
-        self.handle = "AJ-8A"
-        self.status = "🚀 SHIPPING"
-        self.philosophy = "Build → Learn → Improve → Repeat"
+import time
+import random
 
-    def build_mode(self):
-        while True:
-            self.ship_code()
-            self.gather_feedback()
-            self.improve()
-            return self.deploy()
+class CodeRain:
+    def __init__(self):
+        self.syntax = [
+            "var x = 0;",
+            "function build() {}",
+            "const ship = () => {}",
+            "while (true) { improve(); }",
+            "class Developer {}",
+            "return this.code;",
+            "async function deploy() {}",
+            "if (success) celebrate();",
+            "[...spread]",
+            "=> arrow functions",
+            "git commit -m 'ship it'",
+            "npm run build && deploy",
+            "const dev = new AJ-8A()",
+            "db.connect().then(sail)",
+            "for (let idea in ideas) { build(idea) }"
+        ]
+    
+    def rain(self):
+        for _ in range(50):
+            print(" " * random.randint(0, 30) + "↓ " + random.choice(self.syntax))
+            time.sleep(0.05)
 
-    def stack(self):
-        return ["Web Apps", "Learning Tools", "Chat Systems", "Experiments"]
-
-dev = Developer()
-print(f"[INFO] {dev.name} initialized")
-print(f"[INFO] Mode: {dev.status}")
+matrix = CodeRain()
+print("[INITIALIZING] Matrix Code Rain...")
+print("[STATUS] AJ-8A Developer Mode: ACTIVE\n")
+matrix.rain()
+print("\n[COMPLETE] Code falling. System online. Ready to build.\n")
 ```
 
 ---
@@ -105,6 +151,7 @@ print(f"[INFO] Mode: {dev.status}")
 │ Deployment Speed     → High Velocity                 │
 │ Code Quality         → Production Ready              │
 │ Learning Mode        → Always ON                     │
+│ Matrix Status        → CODE RAINING ☔              │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -145,6 +192,9 @@ print(f"[INFO] Mode: {dev.status}")
 
 [05] STAY CURIOUS
      Try new tech → Break things → Learn → Move forward
+
+[06] EMBRACE THE MATRIX
+     Let the code rain. Let your fingers fly. Never stop building.
 ```
 
 ---
@@ -156,6 +206,7 @@ GitHub   → https://github.com/AJ-8A
 Website  → https://aj-8a.github.io/study4u
 Status   → 🟢 ACTIVELY SHIPPING
 Mode     → 🔴 BUILDING 24/7
+Matrix   → 🟢 CODE RAINING
 ```
 
 ---
@@ -164,6 +215,11 @@ Mode     → 🔴 BUILDING 24/7
 
 ```text
 ╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║         ↓ ↓ ↓ CODE RAINING FROM THE SKY ↓ ↓ ↓               ║
+║                                                                ║
+║         The code that falls shapes the world.                 ║
+║         AJ-8A doesn't stop. The matrix never sleeps.          ║
 ║                                                                ║
 ║              > echo "Keep coding. Keep shipping."              ║
 ║              > Keep learning. Keep improving.                  ║
