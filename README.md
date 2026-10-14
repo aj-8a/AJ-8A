@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm AJ-8A 👋</h1>
-
+<h1 align="center">Hi, I'm AJ 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=43FFD2&center=true&vCenter=true&width=700&lines=Developer;Creator;Problem+Solver;Always+Building" alt="Typing SVG" />
 </p>
@@ -119,3 +118,4 @@ I’m Aajimin, also known as AJ-8A — a developer who enjoys building practical
 <p align="center">
   <b>Stay curious. Build boldly. Keep it fun.</b>
 </p>
+
